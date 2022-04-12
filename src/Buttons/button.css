@@ -1,0 +1,12 @@
+.displayNone{
+    display: none;
+}
+
+.display{
+    background-color: purple;
+    color: white;
+}
+
+button{
+    margin:10px;
+}
